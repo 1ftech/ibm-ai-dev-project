@@ -1,4 +1,4 @@
-# ibm-ai-dev-project
+# IBM AI DEVELOPER - PROJECT
 
 Emotion Detector
 
